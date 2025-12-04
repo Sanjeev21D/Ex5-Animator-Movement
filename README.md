@@ -28,8 +28,8 @@ Drag Animator Controller to the GameObject in the Inspector.
 
 ## Program :
 
-### DEVELOPED BY : CHARAN KUMAR S
-### REG NO : 212223220015
+### DEVELOPED BY : SANJEEV D
+### REG NO : 212223040185
 PlayerController:
 
 
